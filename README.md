@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ebuka, a frontend  developer ,data anylyst and an Artist
+- 👋 Hi, I’m Ebuka, a frontend  developer ,data analyst and an Artist
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning python, R language, Data analyticts, Html, CSS
-- 💞️ I’m looking to collaborate on Frontend development and Data analytics
+- 🌱 I’m currently learning Python, R language, Data analysis, Html, CSS
+- 💞️ I’m looking to collaborate on Frontend development and Data Analytics
 - 📫 I love Drawing
 
 <!---
